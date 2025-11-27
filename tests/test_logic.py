@@ -1,4 +1,3 @@
-from re import A
 from tetris.logic import (
     parse_field_from_lines,
     field_to_lines,
