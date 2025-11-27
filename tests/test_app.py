@@ -1,5 +1,4 @@
 from typing import List
-from unittest.mock import Mock
 from tetris.app import run
 
 class MockReader:
